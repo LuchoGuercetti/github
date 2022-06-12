@@ -1,18 +1,22 @@
-*{
+* {
     margin: 3px;
     padding: 3px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(195, 34, 189);
+    background: linear-gradient(0deg, rgba(195, 34, 189, 1) 0%, rgba(210, 52, 0, 1) 100%);
+    background-repeat: no-repeat;
 }
 
-h1{
+h1 {
     color: black;
     background-color: brown;
 }
-main{
-    
+
+main {
+    height: 800px;
 }
 
-p{
+p {
     color: black;
     background-color: brown;
 }
