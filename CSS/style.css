@@ -20,3 +20,7 @@ p {
     color: black;
     background-color: brown;
 }
+
+main section{
+    margin-top: 60px;
+}
