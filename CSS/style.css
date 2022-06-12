@@ -24,3 +24,13 @@ p {
 main section{
     margin-top: 60px;
 }
+footer{
+    background: rgb(131,18,4);
+background: linear-gradient(90deg, rgba(131,18,4,1) 0%, rgba(121,78,9,1) 35%, rgba(255,200,0,1) 100%);
+}
+footer div ul{
+    display: flex;
+    background: rgb(131,18,4);
+background: linear-gradient(90deg, rgba(131,18,4,1) 0%, rgba(121,78,9,1) 35%, rgba(255,200,0,1) 100%);
+    
+}
